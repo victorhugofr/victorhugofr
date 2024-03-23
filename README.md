@@ -4,7 +4,7 @@
 - :mortar_board: Postgraduate in Governance and Management of Information Technology from the UniBF
 - :mortar_board: Postgraduate in Project Management of Information Technology from the UniBF
 - :mortar_board: Master in Information Technology Federal University of Rio Grande do Norte(finishing).
-- :telescope: Over 3+ years of experience in automated software Quality Assurance Testing of client-server, web-based applications and Backend testing.
+- :telescope: Over 4+ years of experience in automated software Quality Assurance Testing of client-server, web-based applications and Backend testing.
 
 
 :scroll: Current Skills:
