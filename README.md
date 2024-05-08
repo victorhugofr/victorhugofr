@@ -1,9 +1,9 @@
 # Hi There! I'm Victor Hugo :wave::smile:
 
-- :mortar_board: Graduated in Information Technology from the Federal University of Rio Grande do Norte.
+- :mortar_board: Bachelor in Information Technology from the Federal University of Rio Grande do Norte.
 - :mortar_board: Postgraduate in Governance and Management of Information Technology from the UniBF
 - :mortar_board: Postgraduate in Project Management of Information Technology from the UniBF
-- :mortar_board: Master in Information Technology Federal University of Rio Grande do Norte(finishing).
+- :mortar_board: Master in Information Technology Federal University of Rio Grande do Norte.
 - :telescope: Over 4+ years of experience in automated software Quality Assurance Testing of client-server, web-based applications and Backend testing.
 
 
